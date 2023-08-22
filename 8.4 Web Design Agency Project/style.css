@@ -13,9 +13,41 @@ body {
 h1 {
   font-size: 5rem;
 }
+img.tile-image{
+  height: 200px;
+  float: left;
+  
+}
 
 footer {
+  float: none;
   text-align: right;
   color: midnightblue;
 }
 
+span{
+  color: midnightblue;
+}
+.card{
+  display: block;
+  width: 45%;
+  
+}
+div.left{
+display: inline;
+float: left;
+flex: 1;
+}
+div.right{
+  display: inline;
+  float: right;
+  flex: 1;
+}
+div.card .card-title{
+  display: inline;
+  float: left;
+}
+div.card p{
+  display: inline;
+  float: left;
+}
