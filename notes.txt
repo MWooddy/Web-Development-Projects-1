@@ -1,2 +1,7 @@
 section 14 & 15 : intor to javascript and intermediate javascript was done in google dev tools
-exercises from 14 - 16 are beeing done or tested in google dev tools.
+exercises from 14 - 16 are being done or tested in google dev tools.
+
+---------------DOM-------------
+doms properties or methods use camel case
+inputing value is passed as a string
+review documention  //TODO
