@@ -1,0 +1,2 @@
+section 14 & 15 : intor to javascript and intermediate javascript was done in google dev tools
+exercises from 14 - 16 are beeing done or tested in google dev tools.
