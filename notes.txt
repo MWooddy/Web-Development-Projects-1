@@ -4,4 +4,4 @@ exercises from 14 - 16 are being done or tested in google dev tools.
 ---------------DOM-------------
 doms properties or methods use camel case
 inputing value is passed as a string
-review documention  //TODO
+review documention  //TODO//
